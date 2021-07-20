@@ -225,7 +225,7 @@ void loop() {
              
                 makeIFTTTRequest();
                 }
-//Similarly just by changing UID nubers, many users can be added in this.
+//Similarly just by changing UID numbers, many users can be added in this.
 //Attendance is being recorded in Google spreadsheet by IFTTT platform connected through WiFi
       }
             
